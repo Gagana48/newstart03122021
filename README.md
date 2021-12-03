@@ -24,7 +24,9 @@
    2. beetroot
    3. spinach
    
-.[git].(githubhttps://git-scm.com/download/linux)
+[git](githubhttps://git-scm.com/download/linux)
+
+
 
 
 
