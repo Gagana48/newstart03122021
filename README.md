@@ -13,6 +13,17 @@
 
 ~~strike through statement ~~
 
+* lits1
+  * item1
+  * item2
+  * item3
+  * item4
+
+1.vegetables
+  1.carrot
+  2.beetroot
+  3.spinach
+
 
 
 
